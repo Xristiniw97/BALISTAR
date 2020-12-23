@@ -73,13 +73,13 @@ $('#mainCarousel').carousel({
 
 // DINING CAROUSEL 
 $('#carouselDining').carousel({
-    interval: 8000,
+    interval: 5000,
     pause: 'hover'
 });
 
 // ROOMS CAROUSEL 
 $('#carouselRooms').carousel({
-    interval: 8000,
+    interval: 5000,
     pause: 'hover'
 });
 
